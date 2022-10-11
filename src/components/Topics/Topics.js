@@ -1,4 +1,5 @@
 import { useLoaderData } from "react-router-dom";
+import Topic from "../Topic/Topic";
 
 const Topics = () => {
     const { data } = useLoaderData();
