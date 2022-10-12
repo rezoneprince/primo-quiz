@@ -8,7 +8,7 @@ const Quiz = () => {
   if (status === false && data) {
     return (
       <h1 className="font-bold text-center text-3xl text-orange-500 my-10">
-        No Quiz Found
+        No Quiz Foun
       </h1>
     );
   }

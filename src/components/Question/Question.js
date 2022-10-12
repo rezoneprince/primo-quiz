@@ -50,7 +50,7 @@ const SingleQuestion = ({ singleQuestion, count, setCount }) => {
     <div className="shadow-md mt-8 flex flex-col gap-4 p-6">
       <div className="flex justify-between">
         <h2 className="text-xl">
-          Quiz {}: {question}
+          Quiz { }: {question}
         </h2>
 
         <div className="">
