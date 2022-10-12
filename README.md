@@ -1,8 +1,6 @@
 # Primo Quiz
 
 ## Live Site Link
-<!-- [Primo Quiz]('https://primo-quiz-react.netlify.app') -->
-
 - https://primo-quiz-react.netlify.app
 
 ## Feature of this Website
