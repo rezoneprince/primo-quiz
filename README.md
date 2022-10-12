@@ -1,4 +1,4 @@
-# Primo Quiz React
+# Primo Quiz
 
 ## Live Site Link
 <!-- [Primo Quiz]('https://primo-quiz-react.netlify.app') -->
